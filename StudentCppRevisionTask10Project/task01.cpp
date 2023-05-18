@@ -21,8 +21,7 @@
 *	[output 3]: 0
 *
 *	[ input 4]: -15
-*	[output 4]: 5
-*/
+*	[output 4]: 5*/
 
 int task01(long long num) {
 
